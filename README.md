@@ -276,7 +276,7 @@ Clone the repository:
 
 ```bash
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Hema9876230/flask-mongodb-kubernetes>
 
 cd flask-mongodb-kubernetes
 
